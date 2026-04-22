@@ -96,4 +96,4 @@ The Excel file contains two main sheets:
 
 ## Author
 
-Samuel Figueira — samuel.figueiraneo@gmail.com
+Samuel Figueira — sfigueira0105@gmail.com
